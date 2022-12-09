@@ -1,3 +1,14 @@
+/**
+ *
+ * @file DIO_program.c
+ * @author Amr Abdelhakim
+ * @brief This is the file that implements DIO driver in MCAL
+ * @version 1.00
+ * @date 6-12-2022
+ */
+
+
+
 #include"STD_TYPES.h"
 #include"BIT_MATH.h"
 
